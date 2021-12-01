@@ -7,7 +7,7 @@ More information on MSAL.js 2.0 can be found here: https://docs.microsoft.com/en
 
 1. Clone this GitHub repository
 ```bash
-git clone https://github.com/harishnarain/react-aad-b2c-demo
+git clone https://github.com/ShrinivasanSundar/react-ad-b2c
 ```
 2. Install all dependent npm packages
 ```bash
@@ -22,7 +22,7 @@ npm start
 Update the clientId section of the /src/authConfig.js file to include your specific application ID from your Azure AD application registration.
 
 ## Screenshots
-![Screenshot](https://github.com/harishnarain/react-aad-b2c-demo/blob/master/react-aad-msal_screenshot.gif)
+![Screenshot](https://github.com/ShrinivasanSundar/react-ad-b2c/blob/master/react-aad-msal_screenshot.gif)
 
 ## Technologies used
 * Microsoft Authentication Library (MSAL) for JS
