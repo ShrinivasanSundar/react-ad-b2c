@@ -8,7 +8,7 @@ export const msalConfig = {
     clientId: "0f61d79b-c777-4552-b62b-52759a0e7e7a",
     //authority: "https://login.microsoftonline.com/alabsb2c.onmicrosoft.com",
     authority: "https://alabsb2c.b2clogin.com/alabsb2c.onmicrosoft.com/B2C_1_AccountSignUp",
-    redirectUri: "http://localhost:3000",
+    redirectUri: "https://react-b2c.herokuapp.com/",
     knownAuthorities:["alabsb2c.b2clogin.com"]
     // clientId: "0f61d79b-c777-4552-b62b-52759a0e7e7a",
     // authority: "https://alabsb2c.b2clogin.com/alabsb2c.onmicrosoft.com/B2C_1_UserSignIn",
